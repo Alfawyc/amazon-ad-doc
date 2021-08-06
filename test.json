@@ -1,0 +1,48 @@
+[
+    {"keywordId":6007690237023,"adGroupId":223387071556518,"campaignId":205235796122393,"keywordText":"forehead gun","matchType":"broad","state":"enabled","bid":40.0,"servingStatus":"TARGETING_CLAUSE_STATUS_LIVE","creationDate":1618488480848,"lastUpdatedDate":1618488480848},
+    {"keywordId":126705622645023,"adGroupId":223387071556518,"campaignId":205235796122393,"keywordText":"非接触型体温計","matchType":"broad","state":"enabled","bid":98.0,"servingStatus":"TARGETING_CLAUSE_STATUS_LIVE","creationDate":1618488480848,"lastUpdatedDate":1618803186106},
+    {"keywordId":78138979449777,"adGroupId":223387071556518,"campaignId":205235796122393,"keywordText":"体温計","matchType":"broad","state":"paused","bid":100.0,"servingStatus":"TARGETING_CLAUSE_PAUSED","creationDate":1618488480851,"lastUpdatedDate":1619593714787},
+    {"keywordId":204831709477956,"adGroupId":223387071556518,"campaignId":205235796122393,"keywordText":"非接触型","matchType":"broad","state":"enabled","bid":72.0,"servingStatus":"TARGETING_CLAUSE_STATUS_LIVE","creationDate":1618488480848,"lastUpdatedDate":1618488480848},
+    {"keywordId":43573055667325,"adGroupId":223387071556518,"campaignId":205235796122393,"keywordText":"たいおんけい","matchType":"broad","state":"enabled","bid":78.0,"servingStatus":"TARGETING_CLAUSE_STATUS_LIVE","creationDate":1618488480851,"lastUpdatedDate":1618803175608},
+    {"keywordId":90435624547552,"adGroupId":223387071556518,"campaignId":205235796122393,"keywordText":"非接触型検温器","matchType":"broad","state":"enabled","bid":88.0,"servingStatus":"TARGETING_CLAUSE_STATUS_LIVE","creationDate":1618488480852,"lastUpdatedDate":1618803180673},
+    {"keywordId":209704371699892,"adGroupId":223387071556518,"campaignId":205235796122393,"keywordText":"thermometer","matchType":"broad","state":"enabled","bid":45.0,"servingStatus":"TARGETING_CLAUSE_STATUS_LIVE","creationDate":1618488480849,"lastUpdatedDate":1618488480849}
+]
+
+[
+    {"adId":204982665182372,"adGroupId":223387071556518,"campaignId":205235796122393,"asin":"B092C7L1K9","sku":"YE-DGKW-NSY1","state":"enabled"},{"adId":171255431697058,"adGroupId":223387071556518,"campaignId":205235796122393,"asin":"B0924L32CV","sku":"QL-05XZ-YNZW","state":"enabled"},{"adId":84570105747753,"adGroupId":223387071556518,"campaignId":205235796122393,"asin":"B0919ZZVYD","sku":"5S-70IB-JS2X","state":"enabled"},{"adId":121209768028161,"adGroupId":223387071556518,"campaignId":205235796122393,"asin":"B092QWFHY5","sku":"BK-O99Y-1RTN","state":"enabled"},{"adId":103891443835225,"adGroupId":223387071556518,"campaignId":205235796122393,"asin":"B092QXVCDP","sku":"0K-417P-OV6J","state":"enabled"},{"adId":151465319399146,"adGroupId":223387071556518,"campaignId":205235796122393,"asin":"B092QTCGWX","sku":"HX-0420-CIVD","state":"enabled"},{"adId":71965546522283,"adGroupId":223387071556518,"campaignId":205235796122393,"asin":"B092VL4BM5","sku":"T8-Q9G7-UADI","state":"enabled"},{"adId":64824297103045,"adGroupId":223387071556518,"campaignId":205235796122393,"asin":"B092VNS4C2","sku":"72-12BM-XDDD","state":"enabled"},{"adId":195434389043806,"adGroupId":223387071556518,"campaignId":205235796122393,"asin":"B0932T9F2G","sku":"5E-SGLC-J9SF","state":"enabled"},{"adId":174161264756450,"adGroupId":223387071556518,"campaignId":205235796122393,"asin":"B093B8ZWXK","sku":"0S-Q974-0HPL","state":"enabled"},{"adId":14197667284672,"adGroupId":223387071556518,"campaignId":205235796122393,"asin":"B093B51W77","sku":"9L-JL30-XT5R","state":"enabled"},{"adId":105149130807235,"adGroupId":223387071556518,"campaignId":205235796122393,"asin":"B0939ZN38T","sku":"B0-J7O5-ELFX","state":"enabled"},{"adId":46557166082167,"adGroupId":223387071556518,"campaignId":205235796122393,"asin":"B093BDRJTD","sku":"XE-3I8Y-BCJV","state":"enabled"},{"adId":153732081163469,"adGroupId":223387071556518,"campaignId":205235796122393,"asin":"B093C4MDFJ","sku":"3W-1D0J-G2Q3","state":"enabled"},{"adId":90488901439692,"adGroupId":223387071556518,"campaignId":205235796122393,"asin":"B093H7519Y","sku":"N9-DBJR-E8VQ","state":"enabled"},{"adId":212716702994173,"adGroupId":223387071556518,"campaignId":205235796122393,"asin":"B093H4Y352","sku":"2I-7U2X-1G2P","state":"enabled"},{"adId":9007182836914,"adGroupId":223387071556518,"campaignId":205235796122393,"asin":"B093H7D7Q3","sku":"WZ-R7SE-N0OB","state":"enabled"},{"adId":259859060648389,"adGroupId":223387071556518,"campaignId":205235796122393,"asin":"B093GNQKYB","sku":"8A-8LBU-YX71","state":"enabled"}
+]
+
+
+,{
+    "attributedUnitsOrdered1dSameSKU":5,
+    "attributedSales7d":21810,
+    "attributedSales30d":21810,
+    "attributedUnitsOrdered30d":6, //点击广告后30天内订购的属性单位数量  订单量
+    "attributedSales1d":18175,
+    "attributedConversions1d":5, //点击广告1天内转换数
+    "attributedSales1dSameSKU":18175, //点击广告后1天内发生的属性转换事件数，其中购买的SKU与广告中的SKU相同
+    "attributedConversions30d":6, //点击广告30天内转换数
+    "adGroupId":223387071556518, //广告组id
+    "attributedConversions7d":6, //点击广告7天内转换数
+    "attributedConversions14d":6, //点击广告14天内转换数
+    "attributedConversions7dSameSKU":6,
+    "attributedUnitsOrdered7dSameSKU":6,
+    "attributedConversions1dSameSKU":5,
+    "cost":6364.67, //广告花费
+    "adGroupName":"Ad group 1", //广告组
+    "attributedUnitsOrdered7d":6, //点击广告后7天内订购的属性单位数量
+    "attributedSales7dSameSKU":21810, //点击广告后1天内发生的属性转换事件数，其中购买的SKU与广告中的SKU相同 
+    "campaignId":205235796122393,
+    "attributedSales14dSameSKU":21810,//点击广告后1天内发生的属性转换事件数，其中购买的SKU与广告中的SKU相同
+    "attributedSales30dSameSKU":21810,//点击广告后1天内发生的属性转换事件数，其中购买的SKU与广告中的SKU相同  销售额
+    "impressions":2070, //曝光量
+    "attributedUnitsOrdered1d":5, //点击广告后1天内订购的属性单位数量
+    "attributedConversions30dSameSKU":6,
+    "attributedUnitsOrdered14dSameSKU":6,
+    "attributedConversions14dSameSKU":6,
+    "clicks":60, //点击量
+    "attributedSales14d":21810, //
+    "campaignName":"大词-广泛低价",
+    "attributedUnitsOrdered30dSameSKU":6,
+    "attributedUnitsOrdered14d":6 //点击广告后14天内订购的属性单位数量
+}
